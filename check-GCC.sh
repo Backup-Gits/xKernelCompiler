@@ -28,7 +28,7 @@ echo -e "$P""=========================================="
 echo -e "$B"BUILDER NAME = ${KBUILD_BUILD_USER}
 echo BUILDER HOSTNAME = ${KBUILD_BUILD_HOST}
 echo DEVICE_DEFCONFIG = ${DEVICE_DEFCONFIG}
-echo CLANG_ROOTDIR = ${GCC_ROOTDIR}
+echo GCC_ROOTDIR = ${GCC_ROOTDIR}
 echo KERNEL_ROOTDIR = ${GCC_ROOTDIR}
 echo -e "$P"==========================================
 echo -e "$W"
